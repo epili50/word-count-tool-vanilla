@@ -1,7 +1,5 @@
 # Contador de letras
 
-[Demo](https://omiras.github.io/word-count-tool/)
-
 ## Requisitos
 
 Queremos implementar un botón que nos diga cuantas letras hemos escrito en la caja de texto.
